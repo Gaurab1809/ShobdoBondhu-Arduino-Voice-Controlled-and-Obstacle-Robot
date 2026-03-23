@@ -1,6 +1,6 @@
 <!-- Logo -->
 <p align="center">
-  <img src="ShobdoBondhu_Logo.png" alt="ShobdoBondhu Logo" width="500"/>
+  <img src="Images/ShobdoBondhu_Logo.png" alt="ShobdoBondhu Logo" width="500"/>
 </p>
 
 <!-- Title Banner -->
@@ -129,9 +129,9 @@ The ShobdoBondhu robot setup integrates Arduino UNO, Motor Shield, Bluetooth, Se
 - Bluetooth module connected for mobile commands
 
 <div align="center">
-<img src="Images/robot_front.png" width="300" />
-<img src="Images/robot_top.png" width="300" />
-<p><b>ShobdoBondhu Robot in Action</b></p>
+  <img src="Images/robot_front.png" width="300" height="300" />
+  <img src="Images/robot_top.png" width="300" height="400" />
+  <p><b>ShobdoBondhu Robot in Action</b></p>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
