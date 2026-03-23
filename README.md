@@ -129,7 +129,7 @@ The ShobdoBondhu robot setup integrates Arduino UNO, Motor Shield, Bluetooth, Se
 - Bluetooth module connected for mobile commands
 
 <div align="center">
-<img src="Images/robot_front.jpg" width="300" />
+<img src="Images/robot_front.png" width="300" />
 <img src="Images/robot_top.png" width="300" />
 <p><b>ShobdoBondhu Robot in Action</b></p>
 </div>
