@@ -105,6 +105,13 @@ The ShobdoBondhu robot setup integrates Arduino UNO, Motor Shield, Bluetooth, Se
 - 4D Car Chassis
 - Battery & Wiring
 
+**Circuit Diagram:**
+<div align="center">
+<img src="Images/circuit_diagram.png" width="500" />
+<p><b>ShobdoBondhu Circuit Diagram</b></p>
+</div>
+
+
 **Voice Commands Supported:**
 - **English:** *Left#, *Right#, *Forward#, *Backward#  
 - **Bangla (বাংলা):** *বাম#, *ডান#, *সামনের#, *পিছনের#  
